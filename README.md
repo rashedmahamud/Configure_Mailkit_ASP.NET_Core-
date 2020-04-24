@@ -1,4 +1,4 @@
-# Configure_Mailkit_ASP.NET_Core-
+# Configure_Mailkit_ASP.NET_Core
 Using MailKit To Send And Receive Email In ASP.NET Core
 
 
